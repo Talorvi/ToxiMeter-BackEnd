@@ -5,6 +5,8 @@ ToxiMeter is an application that allows to determine if given text is offensive 
 
 ## [Demo](https://www.toxic.polarlooptheory.pl)
 
+![Website preview](https://i.imgur.com/7cAFmsk.png)
+
 ## Artificial Intelligence
 The program that returns the probability is written in Python (3.6) and it uses Tensorflow. The network learned from an existing dataset.
 
